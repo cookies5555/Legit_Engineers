@@ -1,4 +1,4 @@
-# Legit_Engineers / ChatGPT Desktop 프롬포트 확장
+# Legit_Engineers / ChatGPT Desktop 프롬프트 확장
 
 **안녕하세요, 저희는 GPTers 그룹에서 활동하는 Legit_Engineers입니다.** 
 저희는 GPT 커뮤니티에서 활동하며 상대적으로 부족한 한국어 프롬프트를 제공하고
