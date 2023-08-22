@@ -5,7 +5,7 @@
 ChatGPT 프롬프트 사용에 익숙하지 않은 분들을 위해 이 프로젝트를 진행하게 되었습니다.
 
 ### 🚀소개
-저희는 "**awesome-chatgpt-prompts**"(https://github.com/f/awesome-chatgpt-prompts)를 바탕으로 한국어로 번역하여, **Chatgpt 프롬포트 확장_김승우,Ditto,콩 폴더**에서 한국어 ChatGPT 프롬프트 리소스를 제공합니다.
+저희는 "**awesome-chatgpt-prompts**"( https://github.com/f/awesome-chatgpt-prompts ) 를 바탕으로 한국어로 번역하여, **Chatgpt 프롬포트 확장_김승우,Ditto,콩 폴더**에서 한국어 ChatGPT 프롬프트 리소스를 제공합니다.
 
 먼저 여기서 Desktop용 Chatgpt를 다운받으시길 권장드립니다. 
 앱을 사용하면 모든 프롬프트를 쉽게 가져와서 와 같은 슬래시 명령과 함께 사용할 수 있습니다.
