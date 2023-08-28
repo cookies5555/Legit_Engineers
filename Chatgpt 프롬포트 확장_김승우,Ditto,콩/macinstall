@@ -1,0 +1,4 @@
+#!/bin/bash
+SCRIPT_DIR=$(dirname "$0")
+
+cp -R $SCRIPT_DIR/Install/. ~/.chatgpt/
